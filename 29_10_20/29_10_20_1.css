@@ -90,4 +90,5 @@ div ~ p{
 
 div + p{
     background-color:purple;
+    margin-top:10px;
 }
