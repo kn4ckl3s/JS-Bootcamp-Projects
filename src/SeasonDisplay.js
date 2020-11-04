@@ -32,5 +32,4 @@ const SeasonDisplay = props => {
     </div>
   );
 };
-//asdadas
 export default SeasonDisplay;
